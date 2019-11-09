@@ -1,0 +1,90 @@
+# Site configuration
+# 1. Files excluded from Jekyll builds
+# 2. Installed Gems
+# 3. Gem settings
+# 4. Jekyll settings
+# 5. Collections
+# 6. Jekyll collections settings
+# 7. Site settings
+# 8. Site favicons & manifest icons
+# 9. Site navigation
+
+# 1. Files excluded from Jekyll builds
+exclude:
+- README.md
+- CODE_OF_CONDUCT.md
+- CONTRIBUTING.md
+- screenshot.png
+- LICENSE
+- CNAME
+- Gemfile
+- Gemfile.lock
+- alembic-jekyll-theme.gemspec
+- .jekyll-cache
+
+# 2. Installed Gems
+plugins:
+- jekyll-sitemap
+- jekyll-mentions
+- jekyll-seo-tag
+- jekyll-redirect-from
+- jekyll-default-layout
+- jekyll-commonmark
+- jekyll-include-cache
+- jemoji
+
+remote_theme: daviddarnes/alembic@3.1.0
+
+# 3. Gem settings
+# @username automatically turns into a link thanks to the jekyll-mentions
+# plugin.
+jekyll-mentions: https://github.com
+
+# 4. Jekyll settings
+sass:
+  style: compressed # Style compression
+permalink: pretty  # Permalink style (/YYYY/MM/DD/page-name/)
+excerpt_separator: <!-- more --> # Marks end of excerpt in posts
+timezone: America/Chicago # Timezone for blog posts and alike
+
+# 5. Collections
+collections:
+  posts:
+    title: Posts # Needed for Siteleaf
+    output: true
+    description: "News" # The post list page content
+
+# 6. Jekyll collections settings
+
+# 7. Site settings
+encoding: utf-8
+lang: en-US
+title: "OSL Northwestern"
+# logo: "/assets/engineering-logo.svg"
+description: "Website for the OSL group at Northwestern University"
+url: "https://osl.northwestern.edu"
+baseurl: ""
+service_worker: false
+css_inline: false
+
+# 8. Site favicons & manifest icons
+#favicons: # Favicons are also used in the manifest file. Syntax is 'size: path'
+
+# 9. Site navigation
+navigation_header:
+- title: Home
+  url: /
+- title: Crunch
+  url: /crunch/
+- title: Meetings
+  url: /meetings/
+
+navigation_footer:
+- title: Created using the Alembic theme
+  url: https://github.com/daviddarnes/alembic
+
+sharing_links: # Appear at the bottom of single blog posts, add as desired. The value can be 'true' or the desired button colour
+  Twitter: "#0d94e7"
+  facebook: "#3B5998"
+  Email: true
+
