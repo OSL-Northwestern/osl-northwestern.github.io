@@ -10,9 +10,19 @@ The OSL users group meets every second Thursday, 11am-12pm.
 
 Read about previous meetings [here](/meetings/).
 
+### Upcoming meetings
+
+- January 16th: Bernardo Pagnoncelli
+
+- January 30th: Oscar will talk about testing and [MathOptInterface](https://github.com/JuliaOpt/MathOptInterface.jl).
+
+- February 13th: topic TBD
+
+- February 27th: topic TBD
+
 ## Crunch
 
-Crunch is the high-performance computing cluster at Northwester available to
+Crunch is the high-performance computing cluster at Northwestern available to
 OSL members. Find more information [here](/crunch/).
 
 ##### Modifying this website
