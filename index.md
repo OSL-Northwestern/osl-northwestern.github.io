@@ -12,13 +12,22 @@ Read about previous meetings [here](/meetings/).
 
 ### Upcoming meetings
 
-- January 16th: Bernardo Pagnoncelli
+##### January 30th
 
-- January 30th: Oscar will talk about testing and [MathOptInterface](https://github.com/JuliaOpt/MathOptInterface.jl).
+- Room: M416 (ESAM conference room)
+- Topic: Masoud will talk about his experiences developing a Kidney Donation simulation app,
+and Oscar will cover software testing.
 
-- February 13th: topic TBD
+##### February 13th
 
-- February 27th: topic TBD
+- Room: B211 (ME conference room)
+- Topic: Oscar will cover numerical issues, floating point, and why computers are bad at
+math.
+
+##### February 27th
+
+- Room: C211 (IEMS conference room)
+- Topic: TBD
 
 ## Crunch
 
