@@ -12,12 +12,6 @@ Read about previous meetings [here](/meetings/).
 
 ### Upcoming meetings
 
-##### January 30th
-
-- Room: M416 (ESAM conference room)
-- Topic: Masoud will talk about his experiences developing a Kidney Donation simulation app,
-and Oscar will cover software testing.
-
 ##### February 13th
 
 - Room: B211 (ME conference room)
