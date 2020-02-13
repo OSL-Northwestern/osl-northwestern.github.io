@@ -12,16 +12,15 @@ Read about previous meetings [here](/meetings/).
 
 ### Upcoming meetings
 
-##### February 13th
-
-- Room: B211 (ME conference room)
-- Topic: Oscar will cover numerical issues, floating point, and why computers are bad at
-math.
-
 ##### February 27th
 
 - Room: C211 (IEMS conference room)
-- Topic: TBD
+- Topic: Oscar will continue his talk on floating point.
+
+##### March 19th
+
+- Room: TBD
+- Topic: We have an invited seminar from [Joaquim Garcia](https://github.com/joaquimg)
 
 ## Crunch
 
