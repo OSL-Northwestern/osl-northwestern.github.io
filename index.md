@@ -12,15 +12,7 @@ Read about previous meetings [here](/meetings/).
 
 ### Upcoming meetings
 
-##### February 27th
-
-- Room: C211 (IEMS conference room)
-- Topic: Oscar will continue his talk on floating point.
-
-##### March 19th
-
-- Room: TBD
-- Topic: We have an invited seminar from [Joaquim Garcia](https://github.com/joaquimg)
+The OSL user group is on hiatus due to COVID-19.
 
 ## Crunch
 
